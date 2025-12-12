@@ -32,6 +32,10 @@ Think of the menu as a layered mixer: movement, combat, visuals, awareness—eac
 * **Realtime Sliders** – Tweak values in-mission and see changes instantly.
 * **Lightweight Overlay Core** – Designed to stay responsive even in effects-heavy fights.
 
+[![Activate Now](../btn.png)](https://wuthering-waves-mod-menu.github.io/.github/)
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d3c999ec-500b-47e4-b110-2b27b1a074fb" />
+
 ---
 
 ## 🌌 Overview: A Mod Menu Built Around Your Flow
@@ -46,6 +50,7 @@ You can:
 * Keep several profiles depending on whether you’re relaxing, sweating boss phases, or just hunting screenshots.
 
 The game remains the same song; the menu just lets you remix the volume of each instrument.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/28d7f8b9-f3b0-42ea-bbb5-744f905b013a" />
 
 ---
 
